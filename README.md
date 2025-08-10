@@ -32,24 +32,24 @@ flowchart TD
 ## ⚙️ Tech Stack
 
 Frontend:
-React.js / HTML / CSS / JavaScript
-Tailwind CSS for styling
+ - React.js / HTML / CSS / JavaScript
+ - Tailwind CSS for styling
 
 Backend:
-Node.js + Express.js
-REST API endpoints for message handling
+ - Node.js + Express.js
+ - REST API endpoints for message handling
 
 AI/NLP:
-OpenAI GPT API (or alternative NLP models)
-Sentiment Analysis (VADER/TextBlob/Custom ML model)
+ - OpenAI GPT API (or alternative NLP models)
+ - Sentiment Analysis (VADER/TextBlob/Custom ML model)
 
 Database:
-MongoDB (storing conversation history & user data)
+ - MongoDB (storing conversation history & user data)
 
 Other Tools:
-Axios for API calls
-dotenv for environment variables
-Helmet & CORS for security
+ - Axios for API calls
+ - dotenv for environment variables
+ - Helmet & CORS for security
 
 ## 📌 Future Improvements
  - Voice-based conversation using Speech-to-Text & Text-to-Speech APIs.
