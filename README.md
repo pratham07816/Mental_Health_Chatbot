@@ -29,7 +29,7 @@ flowchart TD
     G --> H[Frontend UI]
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 Frontend:
 React.js / HTML / CSS / JavaScript
