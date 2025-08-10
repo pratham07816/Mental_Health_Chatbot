@@ -50,3 +50,18 @@ Other Tools:
 Axios for API calls
 dotenv for environment variables
 Helmet & CORS for security
+
+## 📌 Future Improvements
+ # Voice-based conversation using Speech-to-Text & Text-to-Speech APIs.
+ # Integration with wearables for stress/mood monitoring.
+ # Support for multiple languages.
+ # Offline mode with local NLP models.
+
+## ⚠️ Disclaimer
+This chatbot is not a substitute for professional medical advice or therapy.
+If you are experiencing a crisis, please contact a certified mental health professional or helpline immediately.
+
+## 📞 Mental Health Helplines
+India: AASRA - 91-9820466726
+USA: 988 Suicide & Crisis Lifeline - Dial 988
+UK: Samaritans - 116 123 (freephone)
