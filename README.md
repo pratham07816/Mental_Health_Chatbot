@@ -61,7 +61,7 @@ Helmet & CORS for security
 This chatbot is not a substitute for professional medical advice or therapy.
 If you are experiencing a crisis, please contact a certified mental health professional or helpline immediately.
 
-## 📞 Mental Health Helplines
-India: AASRA - 91-9820466726
-USA: 988 Suicide & Crisis Lifeline - Dial 988
-UK: Samaritans - 116 123 (freephone)
+## 📞 Mental Health Helplines 
+ - India: AASRA - 91-9820466726
+ - USA: 988 Suicide & Crisis Lifeline - Dial 988
+ - UK: Samaritans - 116 123 (freephone)
