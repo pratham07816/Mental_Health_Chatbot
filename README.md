@@ -52,11 +52,11 @@ dotenv for environment variables
 Helmet & CORS for security
 
 ## 📌 Future Improvements
- # Voice-based conversation using Speech-to-Text & Text-to-Speech APIs.
- # Integration with wearables for stress/mood monitoring.
- # Support for multiple languages.
- # Offline mode with local NLP models.
-
+ - Voice-based conversation using Speech-to-Text & Text-to-Speech APIs.
+ - Integration with wearables for stress/mood monitoring.
+ - Support for multiple languages.
+ - Offline mode with local NLP models.
+ 
 ## ⚠️ Disclaimer
 This chatbot is not a substitute for professional medical advice or therapy.
 If you are experiencing a crisis, please contact a certified mental health professional or helpline immediately.
